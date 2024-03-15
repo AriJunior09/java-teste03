@@ -17,7 +17,7 @@ public class ClasseTeste03 { // Soma duas idades
     	int total = somar(idade1, idade2);
     	    	
     	System.out.print("A soma das idades é: " + total);
-    	// teste
+    	// teste03
     	
     	sc.close();
     	
